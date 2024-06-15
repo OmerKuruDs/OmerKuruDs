@@ -50,10 +50,10 @@ Here are some of the key technologies and tools I am proficient in:
 ## Contact
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
 
-- **Email**: [My E-mail](mailto:omerkurudatasc@gmail.com)
+- **Email**: (omerkurudatasc@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/omerkuruds/)
 - **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/omrkuru)
 
 Thank you for visiting my portfolio!
 
-<img align="right" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=omerkuruds&theme=blue-green" width="380" height="200" />
+<img align="left" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=omerkuruds&theme=blue-green" width="380" height="200" />
