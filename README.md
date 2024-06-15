@@ -41,7 +41,7 @@ Here are some of the key technologies and tools I am proficient in:
   <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30"/></a>
 
  
-- **Machine Learning**: Supervised Learning, Unsupervised Learning, Model Evaluation
+- **Machine Learning**: Supervised Learning, Unsupervised Learning
   
 - **Deep Learning**: Neural Networks, CNNs, RNNs
   
@@ -55,3 +55,5 @@ Feel free to reach out to me if you have any questions or would like to collabor
 - **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/omrkuru)
 
 Thank you for visiting my portfolio!
+
+<img align="right" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=firatolcum&theme=blue-green" width="380" height="200" />
