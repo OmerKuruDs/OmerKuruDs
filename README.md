@@ -37,7 +37,7 @@ Here are some of the key technologies and tools I am proficient in:
 - **Data Visualization**:
 
   <a href="#" target="_blank"> <img src="https://static.wixstatic.com/media/816c7d_254c0aab674c47538062e180a466f2ca~mv2.jpg/v1/crop/x_86,y_73,w_2941,h_807/fill/w_480,h_132,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/powerbidesktop.jpg" height="30"/></a>
-  <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg"  height="30"/></a><br/>
+  <a href="#" target="_blank"> <img src="https://matplotlib.org/_static/logo_light.svg"  height="30"/></a><br/>
   <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30"/></a>
 
  
