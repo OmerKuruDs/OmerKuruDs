@@ -56,4 +56,4 @@ Feel free to reach out to me if you have any questions or would like to collabor
 
 Thank you for visiting my portfolio!
 
-<img align="right" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=firatolcum&theme=blue-green" width="380" height="200" />
+<img align="right" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=omerkuruds&theme=blue-green" width="380" height="200" />
