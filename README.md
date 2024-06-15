@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Omer👋
 
 # Data Science and Data Analysis Portfolio
 
@@ -17,7 +17,8 @@ I enjoy working on challenging problems and continuously learning new techniques
 
 Here are some of the key technologies and tools I am proficient in:
 
-- **Programming Languages**: Python
+- **Programming Languages**: <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a><br/>
+
  
 - **Libraries and Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
  
