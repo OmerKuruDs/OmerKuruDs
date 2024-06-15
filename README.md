@@ -18,15 +18,15 @@ I enjoy working on challenging problems and continuously learning new techniques
 Here are some of the key technologies and tools I am proficient in:
 
 - **Programming Languages**: Python
-- 
+ 
 - **Libraries and Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- 
+ 
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
-- 
+ 
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Model Evaluation
-- 
+  
 - **Deep Learning**: Neural Networks, CNNs, RNNs
-- 
+  
 - **Data Analysis**: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering
 
 ## Contact
