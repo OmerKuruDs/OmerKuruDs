@@ -7,7 +7,6 @@ Welcome to my Data Science and Data Analysis portfolio! This repository showcase
 ## Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
-- [Projects](#projects)
 - [Contact](#contact)
 
 ## About Me
@@ -18,7 +17,8 @@ I enjoy working on challenging problems and continuously learning new techniques
 
 Here are some of the key technologies and tools I am proficient in:
 - **Programming Languages**: Python
-- **Libraries and Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- **Libraries and Frameworks**: ![image](https://github.com/OmerKuruDs/OmerKuruDs/assets/141873196/5c6b9313-7302-4d87-a849-358071b3d544)
+, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Machine Learning**: Supervised Learning, Unsupervised Learning, Model Evaluation
 - **Deep Learning**: Neural Networks, CNNs, RNNs
