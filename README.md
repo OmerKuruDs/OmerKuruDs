@@ -37,7 +37,11 @@ I am an AI Engineer passionate about solving complex industrial challenges using
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Featured Focus Areas
-- **Industrial Computer Vision:** Developing robust Proof of Concepts (PoCs) for real-time assembly line monitoring, utilizing custom-trained object detection and image segmentation models.
+- **Industrial Computer Vision & Quality Control:**
+  - **Surface Defect Detection:** Implementing advanced segmentation models (U-Net, Mask R-CNN) for high-precision metal surface analysis and anomaly detection.
+  - **Real-Time Assembly Monitoring:** Developing robust YOLO-based architectures (v8-v11) for instantaneous part verification (e.g., screw detection) on active production lines.
+  - **High-Speed Object Counting:** Creating optimized vision pipelines for automated tracking and counting in aerospace and automotive manufacturing environments.
+- **Enterprise AI Integration:** Designing and deploying autonomous agents utilizing Retrieval-Augmented Generation (RAG) to seamlessly interface with ERP systems like SAP Business One.
 
 
 ---
