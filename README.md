@@ -1,59 +1,46 @@
-## Hi there I'm Omer👋
+<h1 align="center">Hi there, I'm Omer 👋</h1>
+<h3 align="center">AI Engineer | Specializing in Computer Vision & Agentic AI</h3>
 
-# Data Science and Data Analysis Portfolio
+<p align="center">
+  <a href="https://omerkuruai.com"><b>🌐 omerkuruai.com</b></a> •
+  <a href="mailto:omerkurudatasc@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/omerkuruds/">🔗 LinkedIn</a> •
+  <a href="https://www.kaggle.com/omrkuru">📊 Kaggle</a>
+</p>
 
-Welcome to my Data Science and Data Analysis portfolio! This repository showcases my projects and skills in data science, including data analysis, machine learning, and deep learning.
+---
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Contact](#contact)
+## 👨‍💻 About Me
 
-## About Me
-I am passionate about data science and data analysis, with using various tools and technologies to derive insights from data. 
-I enjoy working on challenging problems and continuously learning new techniques to improve my skill set.
+I am an AI Engineer passionate about solving complex industrial challenges using advanced **Computer Vision** and **Large Language Models (LLMs)**. My core expertise lies in developing real-time AI systems for quality control in the aerospace and automotive sectors, as well as architecting autonomous agents for enterprise systems.
 
-## Skills
+- 🔭 I’m currently building **Industrial Quality Control AI** (surface defect detection, high-speed object counting) and **Agentic AI systems** (RAG-based enterprise assistants).
+- 🌱 Deeply engaged with advanced architectures including **YOLO (v8-v11)**, **Mask R-CNN**, and **CrewAI**.
+- 🤝 Collaborating on major R&D projects with industry partners, including the aerospace sector and TÜBİTAK.
+- 📝 Read my latest articles and explore my detailed case studies on my personal website: [omerkuruai.com](https://omerkuruai.com)
 
-Here are some of the key technologies and tools I am proficient in:
+## 🛠️ Tech Stack & Tools
 
-- **Programming Languages**:
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a><br/>
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
- 
-- **Libraries and Frameworks**:
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white "/></a>
+**AI & Computer Vision:**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-- **SQL editors**:
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+**Infrastructure & Tools:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Data Visualization**:
+## 🚀 Featured Focus Areas
+- **Industrial Computer Vision:** Developing robust Proof of Concepts (PoCs) for real-time assembly line monitoring, utilizing custom-trained object detection and image segmentation models.
+- **Enterprise AI Integration:** Designing and deploying autonomous agents utilizing Retrieval-Augmented Generation (RAG) to seamlessly interface with ERP systems like SAP Business One.
 
-  <a href="#" target="_blank"> <img src="https://static.wixstatic.com/media/816c7d_254c0aab674c47538062e180a466f2ca~mv2.jpg/v1/crop/x_86,y_73,w_2941,h_807/fill/w_480,h_132,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/powerbidesktop.jpg" height="30"/></a>
-  <a href="#" target="_blank"> <img src="https://matplotlib.org/_static/logo_light.svg"  height="30"/></a><br/>
-  <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30"/></a>
-
- 
-- **Machine Learning**: Supervised Learning, Unsupervised Learning
-  
-- **Deep Learning**: Neural Networks, CNNs, RNNs
-  
-- **Data Analysis**: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering
-
-## Contact
-Feel free to reach out to me if you have any questions or would like to collaborate on a project!
-
-- **Email**: (omerkurudatasc@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/omerkuruds/)
-- **Kaggle**: [My Kaggle Profile](https://www.kaggle.com/omrkuru)
-
-Thank you for visiting my portfolio!
-
-<img align="left" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=omerkuruds&theme=blue-green" width="380" height="200" />
+---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerkuruds&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</div>
