@@ -14,8 +14,8 @@
 
 I am an AI Engineer passionate about solving complex industrial challenges using advanced **Computer Vision** and **Large Language Models (LLMs)**. My core expertise lies in developing real-time AI systems for quality control in the aerospace and automotive sectors, as well as architecting autonomous agents for enterprise systems.
 
-- 🔭 I’m currently building **Industrial Quality Control AI** (surface defect detection, high-speed object counting) and **Agentic AI systems** (RAG-based enterprise assistants).
-- 🌱 Deeply engaged with advanced architectures including **YOLO (v8-v11)**, **Mask R-CNN**, and **CrewAI**.
+- 🔭 I’m currently building **Industrial Quality Control AI** (surface defect detection, high-speed object counting).
+- 🌱 Deeply engaged with advanced architectures including **YOLO**, **Mask R-CNN**, and **U-Net**.
 - 🤝 Collaborating on major R&D projects with industry partners, including the aerospace sector and TÜBİTAK.
 - 📝 Read my latest articles and explore my detailed case studies on my personal website: [omerkuruai.com](https://omerkuruai.com)
 
