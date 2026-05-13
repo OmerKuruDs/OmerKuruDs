@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Omer 👋</h1>
-<h3 align="center">AI Engineer | Specializing in Computer Vision & Agentic AI</h3>
+<h3 align="center">AI Engineer | Specializing in Computer Vision </h3>
 
 <p align="center">
   <a href="https://omerkuruai.com"><b>🌐 omerkuruai.com</b></a> •
@@ -24,7 +24,7 @@ I am an AI Engineer passionate about solving complex industrial challenges using
 **Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+
 
 **AI & Computer Vision:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
