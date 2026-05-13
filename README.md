@@ -38,7 +38,7 @@ I am an AI Engineer passionate about solving complex industrial challenges using
 
 ## 🚀 Featured Focus Areas
 - **Industrial Computer Vision:** Developing robust Proof of Concepts (PoCs) for real-time assembly line monitoring, utilizing custom-trained object detection and image segmentation models.
-- **Enterprise AI Integration:** Designing and deploying autonomous agents utilizing Retrieval-Augmented Generation (RAG) to seamlessly interface with ERP systems like SAP Business One.
+
 
 ---
 <div align="center">
